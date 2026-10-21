@@ -41,4 +41,5 @@
 #     sum=sum+digit*2**power
 #     n=n//10
 # power=power+1
-# print(sum)
+# print(sum)  
+
